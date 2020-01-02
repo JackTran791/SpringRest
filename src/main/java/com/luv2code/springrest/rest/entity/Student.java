@@ -1,4 +1,4 @@
-package com.luv2code.springrest.entity;
+package com.luv2code.springrest.rest.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

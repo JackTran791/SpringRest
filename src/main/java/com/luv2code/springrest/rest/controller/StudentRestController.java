@@ -1,6 +1,6 @@
-package com.luv2code.springrest.controller;
+package com.luv2code.springrest.rest.controller;
 
-import com.luv2code.springrest.entity.Student;
+import com.luv2code.springrest.rest.entity.Student;
 import com.luv2code.springrest.rest.StudentNotFoundException;
 import org.springframework.web.bind.annotation.*;
 

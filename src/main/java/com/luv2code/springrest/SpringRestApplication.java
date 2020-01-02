@@ -1,11 +1,7 @@
 package com.luv2code.springrest;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.luv2code.springrest.entity.Student;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import java.io.File;
 
 @SpringBootApplication
 public class SpringRestApplication {
